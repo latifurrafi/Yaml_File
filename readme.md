@@ -1,4 +1,4 @@
-
+**
 # project (key)
 # └─ team (key)
 #    ├─ item 1 (dictionary)
@@ -32,7 +32,7 @@
 
 # 6. Strings: No quotes needed unless the value has special characters.
 
-# 7. Comments: Start with #.
+# 7. Comments: Start with #.**
 
 
 📘 YAML Project Example
