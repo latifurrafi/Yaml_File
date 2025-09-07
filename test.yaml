@@ -1,0 +1,13 @@
+person:
+  name: Maven
+  skills:
+    - Python
+    - Golang
+    - DevOps
+
+  Name: Rafi
+  Skills:
+    - Golang
+    - Python
+    - DevOps
+

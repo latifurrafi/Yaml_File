@@ -1,0 +1,12 @@
+default-skills: &skills
+  - Python
+  - Golang
+  - DevOps
+
+person1:
+  name: Maven
+  skills: *skills
+
+person2:
+  name: Rafi
+  skills: *skills

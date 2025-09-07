@@ -1,0 +1,17 @@
+defaults: &default
+  role: Developer
+  skills:
+    - Python
+    - Git
+
+maven:
+  <<: *default
+  name: Maven
+
+alex:
+  <<: *default
+  flag: nothing
+  name: Alex
+  skills:
+    - Docker
+    - Kubernetes

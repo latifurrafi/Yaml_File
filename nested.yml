@@ -1,0 +1,19 @@
+project:
+  name: YAMLDemo
+  version: 1.0.0
+  team:
+    - name: Maven
+      role: Backend Developer
+      skills:
+      - python
+      - Golang
+      - DevOps
+
+    - name: Alex
+      role: DevOps
+      skills: 
+        - Kubernetes
+        - Docker
+        - CI/CD
+
+
